@@ -17,7 +17,31 @@ Colours used in the design:
 h1 {
   color: plum;
 }
+h2 {
+  color: green;
+}
+.darkblue {
+  color: darkblue;
+}
+p {
+  color: steelblue;
+}
 
+.tomato {
+  color: tomato;
+}
+em {
+  color: gold;
+}
+#lightseagreen {
+  color: lightseagreen;
+}
+a {
+  color: hotpink;
+}
+p.tomato > a {
+  color: blueviolet;
+}
 /* 
   Add more CSS Selectors below to set the text colour
   The colour of the text should match the colour in brackets in the HTML file
